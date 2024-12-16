@@ -1,0 +1,10 @@
+D:\School\Software System Design\project 2 files\bin\Debug\Project1.exe.config
+D:\School\Software System Design\project 2 files\bin\Debug\Project1.exe
+D:\School\Software System Design\project 2 files\bin\Debug\Project1.pdb
+D:\School\Software System Design\project 2 files\obj\Debug\Project1.csproj.AssemblyReference.cache
+D:\School\Software System Design\project 2 files\obj\Debug\Project1.Form_Input.resources
+D:\School\Software System Design\project 2 files\obj\Debug\Project1.Properties.Resources.resources
+D:\School\Software System Design\project 2 files\obj\Debug\Project1.csproj.GenerateResource.cache
+D:\School\Software System Design\project 2 files\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+D:\School\Software System Design\project 2 files\obj\Debug\Project1.exe
+D:\School\Software System Design\project 2 files\obj\Debug\Project1.pdb
